@@ -1,4 +1,4 @@
-# pano2pano
+# Indoor-Outdoor HDR Panorama Dataset 
 calibrated HDR dataset for 141 paired indoor-outdoor panoramas
 
 The complete dataset is available upon request. 
