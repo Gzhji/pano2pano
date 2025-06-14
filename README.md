@@ -16,5 +16,10 @@ To access the download link, please email Guanzhou Ji (gji@andrew.cmu.edu).
 
 ## BibTeX
 ```
-to be updated
+@article{ji2025digital,
+  title={Digital Kitchen Remodeling: Editing and Relighting Intricate Indoor Scenes from a Single Panorama},
+  author={Ji, Guanzhou and Sawyer, Azadeh O and Narasimhan, Srinivasa G},
+  journal={arXiv preprint arXiv:2504.16086},
+  year={2025}
+}
 ```
